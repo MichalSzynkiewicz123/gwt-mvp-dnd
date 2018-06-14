@@ -2,5 +2,7 @@ package mvp.shared;
 
 public class Row {
 	
-	private String name;
+	public Row(){}
+	
+	
 }
